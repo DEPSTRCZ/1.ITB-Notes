@@ -1,5 +1,5 @@
 ---
-parent: PRAXE
+parent: Praxe
 nav_order: 1
 ---
 # Example praxe
