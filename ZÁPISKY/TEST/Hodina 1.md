@@ -1,5 +1,5 @@
 ---
-parent: TEST
+parent: Test
 nav_order: 1
 ---
 # Úvod do CIGANŮ
