@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: ["./"]
+source: ["./ZÁPISKY"]
 remote_theme: just-the-docs/just-the-docs
 incremental: true
 timezone: Europe/Prague
