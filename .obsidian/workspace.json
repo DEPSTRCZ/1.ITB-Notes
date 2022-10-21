@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "689c8a34ff1cc5f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/ZPD/ZPD - Zákon zachvání hmotnosti - 21. 10. 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZÁPISKY/CJ/ČJ - 21. 10. 2022.md",
+                "file": "ZÁPISKY/ZPD/ZPD - Zákon zachvání hmotnosti - 21. 10. 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZÁPISKY/CJ/ČJ - 21. 10. 2022.md",
+                "file": "ZÁPISKY/ZPD/ZPD - Zákon zachvání hmotnosti - 21. 10. 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZÁPISKY/CJ/ČJ - 21. 10. 2022.md"
+                "file": "ZÁPISKY/ZPD/ZPD - Zákon zachvání hmotnosti - 21. 10. 2022.md"
               }
             }
           },
@@ -164,17 +177,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "90d8a7f8c89c1d07",
+  "active": "689c8a34ff1cc5f0",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-10-21 08.10.35.excalidraw.md",
     "ZÁPISKY/CJ/ČJ - 21. 10. 2022.md",
+    "ZÁPISKY/ZPD/ZPD - Zákon zachvání hmotnosti - 21. 10. 2022.md",
+    "Excalidraw/Drawing 2022-10-21 08.10.35.excalidraw.md",
     "ZÁPISKY/PRX/hodina1.md",
     "ZÁPISKY/TEST/Hodina 1.md",
     "ZÁPISKY/PRX/PRAXE.md",
     "ZÁPISKY/PRX/example.md",
     "LIT/Tereza Nováková.md",
     "LIT/Dětská Literatura.md",
-    "LIT/Ladislav Stroupežnický.md",
-    "LIT/Alois a Vilém Mrštíkové.md"
+    "LIT/Ladislav Stroupežnický.md"
   ]
 }
