@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZÁPISKY/EN/Anglictina.md",
+                "file": "ZÁPISKY/EN/ANGLICTINA.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZÁPISKY/EKO/Ekonomika.md",
+                "file": "ZÁPISKY/PRX/example.md",
                 "mode": "source",
                 "source": false
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZÁPISKY/EKO/Ekonomika.md",
+                "file": "ZÁPISKY/PRX/example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZÁPISKY/EKO/Ekonomika.md",
+                "file": "ZÁPISKY/PRX/example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZÁPISKY/EKO/Ekonomika.md"
+                "file": "ZÁPISKY/PRX/example.md"
               }
             }
           },
@@ -296,15 +296,15 @@
   },
   "active": "c73e9b07be725f4a",
   "lastOpenFiles": [
+    "ZÁPISKY/ZPD/ZAKLADYPRIRODNICHVED.md",
+    "ZÁPISKY/PHW/POCITACOVYHARDWARE.md",
+    "ZÁPISKY/EN/ANGLICTINA.md",
+    "ZÁPISKY/EKO/EKONOMIKA.md",
+    "ZÁPISKY/CJ/CESKYJAZYK.md",
     "ZÁPISKY/PRX/PRAXE.md",
-    "ZÁPISKY/EKO/Ekonomika.md",
     "ZÁPISKY/EKO/EKO - 21. 10. 2022.md",
-    "ZÁPISKY/EN/Anglictina.md",
     "ZÁPISKY/PRX/example.md",
     "ZÁPISKY/PHW/PHW - Základní deska, Socket - 31. 10. 2022.md",
-    "ZÁPISKY/ZPD/ZakladyPrirodnichVěd.md",
-    "ZÁPISKY/ZPD/ZPD - Kovy - 31. 10. 2022.md",
-    "ZÁPISKY/EN/EN - 21. 10. 2022.md",
-    "ZÁPISKY/PHW/PocitacovyHardware.md"
+    "ZÁPISKY/ZPD/ZPD - Kovy - 31. 10. 2022.md"
   ]
 }
