@@ -54,9 +54,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e3ea9e9d7d5f2a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/OSY/OPERACNISYSTEMY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56eb8321f3663d4c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -140,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZÁPISKY/PHW/PHW - 1 - Základní deska, Socket - 31. 10. 2022.md",
+                "file": "ZÁPISKY/ZPD/ZAKLADYPRIRODNICHVED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZÁPISKY/PHW/PHW - 1 - Základní deska, Socket - 31. 10. 2022.md",
+                "file": "ZÁPISKY/ZPD/ZAKLADYPRIRODNICHVED.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZÁPISKY/PHW/PHW - 1 - Základní deska, Socket - 31. 10. 2022.md"
+                "file": "ZÁPISKY/ZPD/ZAKLADYPRIRODNICHVED.md"
               }
             }
           },
@@ -198,17 +218,17 @@
     "direction": "horizontal",
     "width": 429.5
   },
-  "active": "b16842aae667a406",
+  "active": "f6d18829ad7065d4",
   "lastOpenFiles": [
-    "ZÁPISKY/PHW/POCITACOVYHARDWARE.md",
     "ZÁPISKY/ZPD/ZPD - 1 - Zákon zachvání hmotnosti - 21. 10. 2022.md",
-    "ZÁPISKY/ZPD/ZAKLADYPRIRODNICHVED.md",
-    "ZÁPISKY/PRX/example.md",
-    "ZÁPISKY/PRX/hodina1.md",
+    "ZÁPISKY/ZPD/ZPD - 2 -  - 1. 11. 2022.md",
+    "ZÁPISKY/OSY/OSY - 1 -  - 1. 11. 2022.md",
+    "ZÁPISKY/OSY/OPERACNISYSTEMY.md",
     "ZÁPISKY/PRX/PRAXE.md",
+    "ZÁPISKY/PRX/hodina1.md",
     "ZÁPISKY/PHW/PHW - 1 - Základní deska, Socket - 31. 10. 2022.md",
-    "ZÁPISKY/EN/EN - 21. 10. 2022.md",
-    "ZÁPISKY/EKO/EKO - 21. 10. 2022.md",
-    "ZÁPISKY/DEJ/DEJ - 1 - Potraviny, Stavitelství - 31. 10. 2022.md"
+    "ZÁPISKY/PHW/POCITACOVYHARDWARE.md",
+    "ZÁPISKY/ZPD/ZAKLADYPRIRODNICHVED.md",
+    "ZÁPISKY/PRX/example.md"
   ]
 }
