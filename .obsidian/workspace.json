@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "529ad7a4be2c60ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/DEJ/DEJEPIS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22ac34d7db7d0f73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/PHW/PHW - 1 - Základní deska, Socket - 31. 10. 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b16842aae667a406",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/PHW/PHW - 1 - Základní deska, Socket - 31. 10. 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZÁPISKY/ZPD/ZAKLADYPRIRODNICHVED.md",
+                "file": "ZÁPISKY/PHW/PHW - 1 - Základní deska, Socket - 31. 10. 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZÁPISKY/ZPD/ZAKLADYPRIRODNICHVED.md",
+                "file": "ZÁPISKY/PHW/PHW - 1 - Základní deska, Socket - 31. 10. 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZÁPISKY/ZPD/ZAKLADYPRIRODNICHVED.md"
+                "file": "ZÁPISKY/PHW/PHW - 1 - Základní deska, Socket - 31. 10. 2022.md"
               }
             }
           },
@@ -161,17 +198,17 @@
     "direction": "horizontal",
     "width": 429.5
   },
-  "active": "bc4faf100347630b",
+  "active": "b16842aae667a406",
   "lastOpenFiles": [
-    "ZÁPISKY/EKO/EKONOMIKA.md",
-    "ZÁPISKY/EN/ANGLICTINA.md",
     "ZÁPISKY/PHW/POCITACOVYHARDWARE.md",
-    "ZÁPISKY/CJ/CESKYJAZYK.md",
-    "ZÁPISKY/PHW/PHW - Základní deska, Socket - 31. 10. 2022.md",
-    "ZÁPISKY/PRX/PRAXE.md",
-    "ZÁPISKY/TEST/TEST.md",
+    "ZÁPISKY/ZPD/ZPD - 1 - Zákon zachvání hmotnosti - 21. 10. 2022.md",
     "ZÁPISKY/ZPD/ZAKLADYPRIRODNICHVED.md",
-    "ZÁPISKY/TEST/Hodina 1.md",
-    "ZÁPISKY/ZPD/ZPD - Zákon zachvání hmotnosti - 21. 10. 2022.md"
+    "ZÁPISKY/PRX/example.md",
+    "ZÁPISKY/PRX/hodina1.md",
+    "ZÁPISKY/PRX/PRAXE.md",
+    "ZÁPISKY/PHW/PHW - 1 - Základní deska, Socket - 31. 10. 2022.md",
+    "ZÁPISKY/EN/EN - 21. 10. 2022.md",
+    "ZÁPISKY/EKO/EKO - 21. 10. 2022.md",
+    "ZÁPISKY/DEJ/DEJ - 1 - Potraviny, Stavitelství - 31. 10. 2022.md"
   ]
 }
