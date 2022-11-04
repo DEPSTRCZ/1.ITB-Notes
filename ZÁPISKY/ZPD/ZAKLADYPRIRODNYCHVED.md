@@ -1,6 +1,6 @@
 ---
-title: ZakdladyPrirodnichVed
+title: ZakladyPrirodnichVed
 has_children: true
-nav_order: 7
+nav_order: 9
 ---
 # Základy Přírodních Věd

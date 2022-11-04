@@ -2,7 +2,6 @@
 parent: ZakladyPrirodnichVed
 nav_order: 1
 ---
-
 **Zákon zachování hmotnosti:**
 	> Hmotnost chemických látek před reakcí je stejná jako hmotnost chemických látek po reakci.
 	> Počet atomů reaktantů (reagujicích částic) je stejný počet atomů produktů (vznikajících látek).
