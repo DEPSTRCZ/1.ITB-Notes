@@ -2,8 +2,8 @@
 Literatura
 nav_order: 2
 ---
-# LIT - 2 - Římská literatura 2 - 7. 11. 2022
-***TITUS MACCIUS PLAUTUS:***
+# LIT - 2 - Římská Kultura 2 - 7. 11. 2022
+***Titius Maccius Plautus:***
 - Komedie o hrnci
 - Lišák pseudolus
 
