@@ -201,14 +201,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZÁPISKY/ZSV/ZSV - 1 - Vlasnictví - 2. 11. 2022.md",
+                "file": "ZÁPISKY/ZPD/ZPD - 2 - Kovy - 4. 11. 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3afd1abc768500ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/DEJ/DEJ - 3 - Novější dějny - 7. 11. 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29fc95175c12294c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/DEJ/DEJ - 4 - Doprava, Písmo, Matematika, Astronomie, Hebrejské kmeny - 7. 11. 2022.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -292,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZÁPISKY/ZSV/ZSV - 1 - Vlasnictví - 2. 11. 2022.md",
+                "file": "ZÁPISKY/DEJ/DEJ - 4 - Doprava, Písmo, Matematika, Astronomie, Hebrejské kmeny - 7. 11. 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +333,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZÁPISKY/ZSV/ZSV - 1 - Vlasnictví - 2. 11. 2022.md",
+                "file": "ZÁPISKY/DEJ/DEJ - 4 - Doprava, Písmo, Matematika, Astronomie, Hebrejské kmeny - 7. 11. 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,7 +356,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZÁPISKY/ZSV/ZSV - 1 - Vlasnictví - 2. 11. 2022.md"
+                "file": "ZÁPISKY/DEJ/DEJ - 4 - Doprava, Písmo, Matematika, Astronomie, Hebrejské kmeny - 7. 11. 2022.md"
               }
             }
           },
@@ -350,17 +374,17 @@
     "direction": "horizontal",
     "width": 429.5
   },
-  "active": "6483e7ff66110c93",
+  "active": "29fc95175c12294c",
   "lastOpenFiles": [
-    "ZÁPISKY/ZPD/ZPD - 1 - Zákon zachvání hmotnosti - 21. 10. 2022.md",
+    "ZÁPISKY/DEJ/DEJ - 3 - Novější dějny - 7. 11. 2022.md",
+    "ZÁPISKY/CJ/CJ - 2 - Jazykovědné discliplíny - 1. 11. 2022.md",
+    "ZÁPISKY/CJ/CJ - 3 - Hláskosloví - 4. 11. 2022.md",
+    "ZÁPISKY/CJ/CJ - 1 - 21. 10. 2022.md",
+    "ZÁPISKY/DEJ/DEJ - 4 - Doprava, Písmo, Matematika, Astronomie, Hebrejské kmeny - 7. 11. 2022.md",
+    "ZÁPISKY/DEJ/DEJ - 2 - Představy politiků o USA , Velká Francouská Revoluce - 2. 11. 2022.md",
     "ZÁPISKY/ZPD/ZPD - 2 - Kovy - 4. 11. 2022.md",
+    "ZÁPISKY/ZPD/ZPD - 1 - Zákon zachvání hmotnosti - 21. 10. 2022.md",
     "ZÁPISKY/ZSV/ZSV - 1 - Vlasnictví - 2. 11. 2022.md",
-    "ZÁPISKY/ZSV/ZAKLADYSPOLECENSKYCHVED.md",
-    "ZÁPISKY/PRX/PRX - 1 - Elektrická Měření - 8. 11. 2022.md",
-    "ZÁPISKY/PHW/PHW - 2 - Základní deska 2 - 3. 11. 2022.md",
-    "ZÁPISKY/PHW/PHW - 1 - Základní deska 1 - 31. 10. 2022.md",
-    "ZÁPISKY/OSY/OPERACNISYSTEMY.md",
-    "ZÁPISKY/LIT/LIT - 1 - Římská Kultura - 3. 11. 2022.md",
-    "ZÁPISKY/EN/EN - 21. 10. 2022.md"
+    "ZÁPISKY/ZSV/ZAKLADYSPOLECENSKYCHVED.md"
   ]
 }

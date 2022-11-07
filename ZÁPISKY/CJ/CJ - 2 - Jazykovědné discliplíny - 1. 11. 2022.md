@@ -2,7 +2,7 @@
 parent: Cestina
 nav_order: 2
 ---
-# CJ - 3 - Hláskosloví - 4. 11. 2022
+# CJ - 2 - Jazykovědné discliplíny- 1. 11. 2022
 **Fonetika, tonologie:**
 ->Hláskování
 
