@@ -2,6 +2,7 @@
 parent: Dejepis
 nav_order: 2
 ---
+# DEJ - 2 - Představy politiků o USA , Velká Francouská Revoluce - 2. 11. 2022
 - T. Jefferson - představy o demokratické republice zěmědělského charakteru podpořené Franií, s vědšími právy pro vlády - vláda decentralizována
 
 - A. Hamilton - nzastává silné ustřední vlády, podpora Británie

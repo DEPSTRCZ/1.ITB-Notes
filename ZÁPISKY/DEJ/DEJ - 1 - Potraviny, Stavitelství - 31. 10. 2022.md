@@ -2,7 +2,7 @@
 parent: Dejepis
 nav_order: 1
 ---
-
+# DEJ - 1 - Potraviny, Stavitelství - 31. 10. 2022
 **Zpracování Potravin**
 - obilí drceno na ručních mlýnech
 - mouka -> chléb, kaše a placky

@@ -2,6 +2,7 @@
 parent: ZakladyPrirodnichVed
 nav_order: 1
 ---
+# ZSV - 1 - Vlasnictví - 2. 11. 2022
 **Nehmotné = duševní vlastnictví**
 -> vztahují se k němu autorská práva
 *nelze bez souhlasu autora*

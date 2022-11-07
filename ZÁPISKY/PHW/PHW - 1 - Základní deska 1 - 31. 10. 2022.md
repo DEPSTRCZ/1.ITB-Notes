@@ -2,6 +2,7 @@
 parent: PocitacovyHardware
 nav_order: 1
 ---
+# PHW - 1 - Základní deska 1 - 31. 10. 2022
 **Funkce Základní Desky:**
 	>Mainboard/Motherboard
 	>propojuje ostatní komponenty

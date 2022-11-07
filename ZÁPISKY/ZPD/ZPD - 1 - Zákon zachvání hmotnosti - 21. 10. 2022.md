@@ -2,6 +2,7 @@
 parent: ZakladyPrirodnichVed
 nav_order: 1
 ---
+# ZPD - 1 - Zákon zachvání hmotnosti - 21. 10. 2022
 **Zákon zachování hmotnosti:**
 	> Hmotnost chemických látek před reakcí je stejná jako hmotnost chemických látek po reakci.
 	> Počet atomů reaktantů (reagujicích částic) je stejný počet atomů produktů (vznikajících látek).

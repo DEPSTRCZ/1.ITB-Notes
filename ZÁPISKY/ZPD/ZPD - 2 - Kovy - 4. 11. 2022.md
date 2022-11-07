@@ -2,6 +2,7 @@
 parent: ZakladyPrirodnichVed
 nav_order: 2
 ---
+# ZPD - 2 - Kovy - 4. 11. 2022
 **Vlastnosti:**
 - kovově lesklý povrch
 - jsou tažné a kujné
