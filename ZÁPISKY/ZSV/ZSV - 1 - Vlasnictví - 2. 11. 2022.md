@@ -1,5 +1,5 @@
 ---
-parent: ZakladyPrirodnichVed
+parent: ZakladySpolecenskychVed
 nav_order: 1
 ---
 # ZSV - 1 - Vlasnictví - 2. 11. 2022
