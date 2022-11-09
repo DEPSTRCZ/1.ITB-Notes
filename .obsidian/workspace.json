@@ -249,14 +249,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZÁPISKY/LIT/LIT - 2 - Římská Kultura 2  - 7. 11. 2022.md",
+                "file": "ZÁPISKY/CJ/CJ - 1 - 21. 10. 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f0af6c74a2a62ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/CJ/CJ - 4 - Hláskosloví 2 - 9. 11. 2022.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -340,7 +352,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZÁPISKY/LIT/LIT - 2 - Římská Kultura 2  - 7. 11. 2022.md",
+                "file": "ZÁPISKY/CJ/CJ - 4 - Hláskosloví 2 - 9. 11. 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -357,7 +369,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZÁPISKY/LIT/LIT - 2 - Římská Kultura 2  - 7. 11. 2022.md",
+                "file": "ZÁPISKY/CJ/CJ - 4 - Hláskosloví 2 - 9. 11. 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -380,7 +392,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZÁPISKY/LIT/LIT - 2 - Římská Kultura 2  - 7. 11. 2022.md"
+                "file": "ZÁPISKY/CJ/CJ - 4 - Hláskosloví 2 - 9. 11. 2022.md"
               }
             }
           },
@@ -398,17 +410,17 @@
     "direction": "horizontal",
     "width": 366.5
   },
-  "active": "fd64640548eedebb",
+  "active": "6f0af6c74a2a62ec",
   "lastOpenFiles": [
-    "ZÁPISKY/LIT/LIT - 1 - Římská Kultura - 3. 11. 2022.md",
+    "ZÁPISKY/CJ/CJ - 2 - Jazykovědné discliplíny - 1. 11. 2022.md",
+    "ZÁPISKY/CJ/CJ - 4 - Hláskosloví 2 - 9. 11. 2022.md",
+    "ZÁPISKY/CJ/CJ - 1 - 21. 10. 2022.md",
     "ZÁPISKY/LIT/LIT - 2 - Římská Kultura 2  - 7. 11. 2022.md",
+    "ZÁPISKY/LIT/LIT - 1 - Římská Kultura - 3. 11. 2022.md",
     "ZÁPISKY/OSY/OSY - 1 - Malware - 8. 11. 2022.md",
     "ZÁPISKY/OSY/OPERACNISYSTEMY.md",
     "ZÁPISKY/EN/EN - 21. 10. 2022.md",
-    "ZÁPISKY/CJ/CJ - 2 - Jazykovědné discliplíny - 1. 11. 2022.md",
     "ZÁPISKY/CJ/CJ - 3 - Hláskosloví - 4. 11. 2022.md",
-    "ZÁPISKY/CJ/CJ - 1 - 21. 10. 2022.md",
-    "ZÁPISKY/DEJ/DEJ - 4 - Doprava, Písmo, Matematika, Astronomie, Hebrejské kmeny - 7. 11. 2022.md",
-    "ZÁPISKY/DEJ/DEJ - 3 - Novější dějny - 7. 11. 2022.md"
+    "ZÁPISKY/DEJ/DEJ - 4 - Doprava, Písmo, Matematika, Astronomie, Hebrejské kmeny - 7. 11. 2022.md"
   ]
 }
