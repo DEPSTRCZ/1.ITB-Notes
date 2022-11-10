@@ -266,9 +266,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dbb6ac33fbaaa470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/ZSV/ZSV - 2 - Nakládání s majetkem -9. 11. 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90da0105b2e6ca02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/ICT/ICT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e927ae55ba33be1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/ICT/ICT - Disky-Managment - 9. 11. 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae718c93b2cff55a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/LIT/LIT - 1 - Římská Kultura - 3. 11. 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15b36e9c899a2e0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/LIT/LIT - 3 - Středověká literatura - 10. 11. 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -352,7 +412,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZÁPISKY/CJ/CJ - 4 - Hláskosloví 2 - 9. 11. 2022.md",
+                "file": "ZÁPISKY/LIT/LIT - 3 - Středověká literatura - 10. 11. 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -369,7 +429,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZÁPISKY/CJ/CJ - 4 - Hláskosloví 2 - 9. 11. 2022.md",
+                "file": "ZÁPISKY/LIT/LIT - 3 - Středověká literatura - 10. 11. 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -392,7 +452,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZÁPISKY/CJ/CJ - 4 - Hláskosloví 2 - 9. 11. 2022.md"
+                "file": "ZÁPISKY/LIT/LIT - 3 - Středověká literatura - 10. 11. 2022.md"
               }
             }
           },
@@ -410,17 +470,17 @@
     "direction": "horizontal",
     "width": 366.5
   },
-  "active": "6f0af6c74a2a62ec",
+  "active": "15b36e9c899a2e0e",
   "lastOpenFiles": [
-    "ZÁPISKY/CJ/CJ - 2 - Jazykovědné discliplíny - 1. 11. 2022.md",
-    "ZÁPISKY/CJ/CJ - 4 - Hláskosloví 2 - 9. 11. 2022.md",
-    "ZÁPISKY/CJ/CJ - 1 - 21. 10. 2022.md",
     "ZÁPISKY/LIT/LIT - 2 - Římská Kultura 2  - 7. 11. 2022.md",
+    "ZÁPISKY/LIT/LIT - 3 - Středověká literatura - 10. 11. 2022.md",
     "ZÁPISKY/LIT/LIT - 1 - Římská Kultura - 3. 11. 2022.md",
-    "ZÁPISKY/OSY/OSY - 1 - Malware - 8. 11. 2022.md",
-    "ZÁPISKY/OSY/OPERACNISYSTEMY.md",
-    "ZÁPISKY/EN/EN - 21. 10. 2022.md",
-    "ZÁPISKY/CJ/CJ - 3 - Hláskosloví - 4. 11. 2022.md",
-    "ZÁPISKY/DEJ/DEJ - 4 - Doprava, Písmo, Matematika, Astronomie, Hebrejské kmeny - 7. 11. 2022.md"
+    "ZÁPISKY/ZPD/ZPD - 3 - Kovy 2  - 10. 11. 2022.md",
+    "ZÁPISKY/ZSV/ZSV - 1 - Vlasnictví - 2. 11. 2022.md",
+    "ZÁPISKY/ZSV/ZSV - 2 - Nakládání s majetkem -9. 11. 2022.md",
+    "ZÁPISKY/ZPD/ZPD - 2 - Kovy - 4. 11. 2022.md",
+    "ZÁPISKY/ICT/ICT - Disky-Managment - 9. 11. 2022.md",
+    "ZÁPISKY/ICT/ICT.md",
+    "ZÁPISKY/PHW/POCITACOVYHARDWARE.md"
   ]
 }
