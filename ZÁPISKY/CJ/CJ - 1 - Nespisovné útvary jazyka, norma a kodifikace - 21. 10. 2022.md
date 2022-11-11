@@ -2,7 +2,7 @@
 parent: Cestina
 nav_order: 1
 ---
-# ČJ - 1 - 21. 10. 2022
+# CJ - 1 - Nespisovné útvary jazyka, norma a kodifikace - 21. 10. 2022
 **Nespisovné útvary jazyka:**
 	- *Nářečí:*
 		> území, hláskosloví, tvarosloví, skladba, slovní zásoba

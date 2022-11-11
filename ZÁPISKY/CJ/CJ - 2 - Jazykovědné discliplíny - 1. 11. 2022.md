@@ -3,7 +3,7 @@ parent: Cestina
 nav_order: 2
 ---
 # CJ - 2 - Jazykovědné discliplíny- 1. 11. 2022
-**Fonetika, tonologie:**
+**Fonetika, fonologie:**
 ->Hláskování
 
 **Morfologie:**
