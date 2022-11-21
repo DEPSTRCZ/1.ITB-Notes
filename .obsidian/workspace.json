@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZÁPISKY/DEJ/DEJ - 5 - Napoleonská Francie a Evropa  - 21. 11. 2022.md",
+                "file": "ZÁPISKY/DEJ/DEJ - 2 - Představy politiků o USA , Velká Francouská Revoluce - 2. 11. 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f510260f08acc720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/DEJ/DEJ - 6 - Starověké Řecko - 21. 11. 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "557a280b6485a0ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/LIT/LIT - 4 - Středověká evropská literatura - 21. 11. 2022.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZÁPISKY/DEJ/DEJ - 5 - Napoleonská Francie a Evropa  - 21. 11. 2022.md",
+                "file": "ZÁPISKY/LIT/LIT - 4 - Středověká evropská literatura - 21. 11. 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZÁPISKY/DEJ/DEJ - 5 - Napoleonská Francie a Evropa  - 21. 11. 2022.md",
+                "file": "ZÁPISKY/LIT/LIT - 4 - Středověká evropská literatura - 21. 11. 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZÁPISKY/DEJ/DEJ - 5 - Napoleonská Francie a Evropa  - 21. 11. 2022.md"
+                "file": "ZÁPISKY/LIT/LIT - 4 - Středověká evropská literatura - 21. 11. 2022.md"
               }
             }
           },
@@ -161,17 +186,17 @@
     "direction": "horizontal",
     "width": 366.5
   },
-  "active": "084b3146ec985403",
+  "active": "557a280b6485a0ce",
   "lastOpenFiles": [
-    "ZÁPISKY/DEJ/DEJ - 4 - Doprava, Písmo, Matematika, Astronomie, Hebrejské kmeny - 7. 11. 2022.md",
+    "ZÁPISKY/LIT/LIT - 3 - Středověká literatura - 10. 11. 2022.md",
+    "ZÁPISKY/LIT/LIT - 4 - Středověká evropská literatura - 21. 11. 2022.md",
+    "ZÁPISKY/LIT/LIT - 2 - Římská Kultura 2  - 7. 11. 2022.md",
+    "ZÁPISKY/LIT/LIT - 1 - Římská Kultura - 3. 11. 2022.md",
+    "ZÁPISKY/DEJ/DEJ - 6 - Starověké Řecko - 21. 11. 2022.md",
     "ZÁPISKY/DEJ/DEJ - 5 - Napoleonská Francie a Evropa  - 21. 11. 2022.md",
-    "ZÁPISKY/PHW/PHW - 1 - Základní deska 1 - 31. 10. 2022.md",
-    "ZÁPISKY/PHW/PHW - 2 - Základní deska 2 - 3. 11. 2022.md",
-    "ZÁPISKY/CJ/CJ - 6 - Morfematický, Tvarový a Slovotvorný rozbor slova - 15. 11. 2022.md",
-    "ZÁPISKY/ZSV/ZSV - 3- Věcná práva - 16. 11. 2022.md",
-    "ZÁPISKY/OSY/OSY - 2 - Operační systém - 8. 11. 2022 1.md",
-    "ZÁPISKY/PRV/PRV - 1 - Datová komprese - 16. 11. 2022.md",
-    "ZÁPISKY/PRV/PROGRAMOVEVYBAVENI.md",
-    "ZÁPISKY/ZSV/ZSV - 2 - Nakládání s majetkem -9. 11. 2022.md"
+    "ZÁPISKY/DEJ/DEJ - 2 - Představy politiků o USA , Velká Francouská Revoluce - 2. 11. 2022.md",
+    "ZÁPISKY/DEJ/DEJ - 3 - Novější dějny - 7. 11. 2022.md",
+    "ZÁPISKY/DEJ/DEJ - 4 - Doprava, Písmo, Matematika, Astronomie, Hebrejské kmeny, Kréta, Mikény, Železo, Perská Říše - 7. 11. 2022.md",
+    "ZÁPISKY/PHW/PHW - 1 - Základní deska 1 - 31. 10. 2022.md"
   ]
 }
