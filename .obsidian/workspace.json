@@ -273,7 +273,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZÁPISKY/ZSV/ZSV - 2 - Nakládání s majetkem -9. 11. 2022.md",
+                "file": "ZÁPISKY/CJ/CJ - 6 - Morfematický, Tvarový a Slovotvorný rozbor slova - 15. 11. 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4869e302089eca92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/PRV/PRV - 1 - Datová komprese - 16. 11. 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45e74c01951b79d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/OSY/OSY - 2 - Operační systém - 8. 11. 2022 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea425e93a2ec7fff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/CJ/CJ - 6 - Morfematický, Tvarový a Slovotvorný rozbor slova - 15. 11. 2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -350,9 +386,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "399400d8d2ad50cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/CJ/CJ - 6 - Morfematický, Tvarový a Slovotvorný rozbor slova - 15. 11. 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 28
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -436,7 +484,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZÁPISKY/CJ/CJ - 5 - Nauka o slovní zásobě - 11. 11. 2022.md",
+                "file": "ZÁPISKY/CJ/CJ - 6 - Morfematický, Tvarový a Slovotvorný rozbor slova - 15. 11. 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -453,7 +501,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZÁPISKY/CJ/CJ - 5 - Nauka o slovní zásobě - 11. 11. 2022.md",
+                "file": "ZÁPISKY/CJ/CJ - 6 - Morfematický, Tvarový a Slovotvorný rozbor slova - 15. 11. 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -476,7 +524,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZÁPISKY/CJ/CJ - 5 - Nauka o slovní zásobě - 11. 11. 2022.md"
+                "file": "ZÁPISKY/CJ/CJ - 6 - Morfematický, Tvarový a Slovotvorný rozbor slova - 15. 11. 2022.md"
               }
             }
           },
@@ -494,17 +542,17 @@
     "direction": "horizontal",
     "width": 366.5
   },
-  "active": "193ff37e367582d2",
+  "active": "ea425e93a2ec7fff",
   "lastOpenFiles": [
-    "ZÁPISKY/CJ/CJ - 1 - Nespisovné útvary jazyka, norma a kodifikace - 21. 10. 2022.md",
+    "ZÁPISKY/ZSV/ZSV - 3- Věcná práva - 16. 11. 2022.md",
+    "ZÁPISKY/OSY/OSY - 2 - Operační systém - 8. 11. 2022 1.md",
+    "ZÁPISKY/PRV/PRV - 1 - Datová komprese - 16. 11. 2022.md",
+    "ZÁPISKY/PRV/PROGRAMOVEVYBAVENI.md",
+    "ZÁPISKY/PHW/PHW - 1 - Základní deska 1 - 31. 10. 2022.md",
+    "ZÁPISKY/CJ/CJ - 6 - Morfematický, Tvarový a Slovotvorný rozbor slova - 15. 11. 2022.md",
+    "ZÁPISKY/ZSV/ZSV - 2 - Nakládání s majetkem -9. 11. 2022.md",
     "ZÁPISKY/CJ/CJ - 5 - Nauka o slovní zásobě - 11. 11. 2022.md",
-    "ZÁPISKY/DEJ/DEJ - 4 - Doprava, Písmo, Matematika, Astronomie, Hebrejské kmeny - 7. 11. 2022.md",
-    "ZÁPISKY/CJ/CJ - 4 - Hláskosloví 2 - 9. 11. 2022.md",
-    "ZÁPISKY/CJ/CJ - 3 - Hláskosloví - 4. 11. 2022.md",
-    "ZÁPISKY/CJ/CJ - 2 - Jazykovědné discliplíny - 1. 11. 2022.md",
-    "Untitled.md",
-    "ZÁPISKY/EN/ANGLICTINA.md",
-    "ZÁPISKY/EKO/EKO - 1 - Trh - 4. 11. 2022.md",
-    "ZÁPISKY/LIT/LIT - 3 - Středověká literatura - 10. 11. 2022.md"
+    "ZÁPISKY/CJ/CJ - 1 - Nespisovné útvary jazyka, norma a kodifikace - 21. 10. 2022.md",
+    "ZÁPISKY/DEJ/DEJ - 4 - Doprava, Písmo, Matematika, Astronomie, Hebrejské kmeny - 7. 11. 2022.md"
   ]
 }
