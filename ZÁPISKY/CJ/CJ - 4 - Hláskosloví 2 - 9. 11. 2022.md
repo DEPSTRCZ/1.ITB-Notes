@@ -9,7 +9,7 @@ nav_order: 4
 **Souhlásky:**
 - je to hláska, která vzniká tak, že výdechový proud překonává překážku tvořenou mluvními orgány
 
-**Párové souhlásky:
+**Párové souhlásky:**
 - Znělé:
 	- b, v, d, ď, z, ž, g, h, dz, dž
 - Neznělé:
