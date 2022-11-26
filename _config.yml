@@ -3,6 +3,8 @@ safe: true
 source: ["./ZÁPISKY"]
 remote_theme: just-the-docs/just-the-docs
 incremental: true
+domain: zapisky.depstr.eu       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://zapisky.depstr.eu
 timezone: Europe/Prague
 highlighter: rouge
 color_scheme: dark
