@@ -2,7 +2,7 @@
 parent: ZakladyPrirodnichVed
 nav_order: 5
 ---
-# Halogeny
+# ZPD - 5 - Halogeny - 29.11.2022
 ## Chlor [CL]
 - **Užití:**
 	- Dezinfekce pitné vody
