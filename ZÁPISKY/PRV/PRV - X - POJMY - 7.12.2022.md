@@ -1,5 +1,5 @@
 ---
-title: ProgramoveVybaveni
+parent: ProgramoveVybaveni
 nav_order: 2
 ---
 # PRV - X - POJMY - 7.12.2022

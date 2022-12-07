@@ -17,8 +17,21 @@
                 "staged": false
               }
             }
+          },
+          {
+            "id": "59dff5abd891eded",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/PRV/PRV - X - POJMY - 7.12.2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ZÁPISKY/PRV/PRV - X - POJMY - 7.12.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ZÁPISKY/PRV/PRV - X - POJMY - 7.12.2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ZÁPISKY/PRV/PRV - X - POJMY - 7.12.2022.md"
+              }
             }
           },
           {
@@ -154,17 +171,17 @@
     "direction": "horizontal",
     "width": 366.5
   },
-  "active": "4f2dbc4d0357bcdd",
+  "active": "59dff5abd891eded",
   "lastOpenFiles": [
-    "ZÁPISKY/DEJ/DEJ - 5 - Napoleonská Francie a Evropa  - 21. 11. 2022.md",
-    "ZÁPISKY/DEJ/DEJ - 3 - Novější dějny - 7. 11. 2022.md",
+    "ZÁPISKY/PRV/PRV - 1 - Datová komprese - 16. 11. 2022.md",
     "ZÁPISKY/PRV/PRV - X - POJMY - 7.12.2022.md",
     "ZÁPISKY/PRV/PROGRAMOVEVYBAVENI.md",
+    "ZÁPISKY/DEJ/DEJ - 5 - Napoleonská Francie a Evropa  - 21. 11. 2022.md",
+    "ZÁPISKY/DEJ/DEJ - 3 - Novější dějny - 7. 11. 2022.md",
     "ZÁPISKY/DEJ/DEJ - 1 - Potraviny, Stavitelství - 31. 10. 2022.md",
     "ZÁPISKY/DEJ/DEJ - 2 - Představy politiků o USA , Velká Francouská Revoluce - 2. 11. 2022.md",
     "ZÁPISKY/DEJ/DEJ - 6 - Starověké Řecko - 21. 11. 2022.md",
     "ZÁPISKY/DEJ/DĚJEPIS.md",
-    "ZÁPISKY/DEJ/DEJEPIS.md",
-    "ZÁPISKY/DEJ/DEJ - 4 - Doprava, Písmo, Matematika, Astronomie, Hebrejské kmeny, Kréta, Mikény, Železo, Perská Říše - 7. 11. 2022.md"
+    "ZÁPISKY/DEJ/DEJEPIS.md"
   ]
 }
