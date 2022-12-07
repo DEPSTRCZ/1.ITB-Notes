@@ -21,3 +21,12 @@ nav_order: 5
 - Zřízení Nizozemského království - králem bratr ludvík, starší bratr Josef králem napolelonským, pak španělským
 - 1810 - Napoleon nejsilnější -> polovina Evropy v jeho moci, druhá polovina nuceným spojencem
 - Rusko: 1812 - tažení do Ruska = bitva u Borodina -> Napoleon až v Moskvě (v čele ruské armády maršál M. I. Kutuzov) -Napoleon poražen
+- **18. června - 1815** 
+	- Bitva u Waterloo
+- **1815** - Nová mírová smlouva
+- **1821** - Smrt Napoleona na ostrově Sv. Heleny 
+- **Shrnutí Napoleonovy vlády**
+	- pokračovatel revoluce
+	- zručení privilegii
+	- Ponechání občanských práv
+	- zavedení moderního škol systemu
