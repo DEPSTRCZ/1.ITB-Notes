@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "92584bcdf9ae3f7e",
+        "id": "88d2fdb49411e605",
         "type": "tabs",
         "children": [
           {
-            "id": "59dff5abd891eded",
+            "id": "c923e768bbcaaa54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/ZPD/ZPD - TEST OTÁZKY - 5.12.2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5ed30e7655f16c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/ZPD/ZPD - TEST ODPOVĚDI - 5.12.2022.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZÁPISKY/ZPD/ZPD - TEST ODPOVĚDI - 5.12.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZÁPISKY/ZPD/ZPD - TEST ODPOVĚDI - 5.12.2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ZÁPISKY/ZPD/ZPD - TEST ODPOVĚDI - 5.12.2022.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,17 +151,17 @@
     "direction": "horizontal",
     "width": 366.5
   },
-  "active": "e5ed30e7655f16c6",
+  "active": "c923e768bbcaaa54",
   "lastOpenFiles": [
+    "ZÁPISKY/PHW/PHW - 3 - Procesor - 21. 11. 2022.md",
     "ZÁPISKY/ZPD/ZPD - TEST OTÁZKY - 5.12.2022.md",
-    "ZÁPISKY/ZPD/ZPD - 3 - Kovy 2  - 10. 11. 2022.md",
+    "ZÁPISKY/PHW/PHW - 1 - Základní deska 1 - 31. 10. 2022.md",
+    "ZÁPISKY/PHW/POCITACOVYHARDWARE.md",
+    "ZÁPISKY/PHW/PHW - 5 - - 08.12.2022.md",
     "ZÁPISKY/ZPD/ZPD - TEST ODPOVĚDI - 5.12.2022.md",
+    "ZÁPISKY/ZPD/ZPD - 3 - Kovy 2  - 10. 11. 2022.md",
     "ZÁPISKY/ZPD/ZPD - 6 - Kyseliny - 02.12.2022.md",
     "ZÁPISKY/ZPD/ZPD - 1 - Zákon zachvání hmotnosti - 21. 10. 2022.md",
-    "ZÁPISKY/ZPD/ZPD - 2 - Kovy - 4. 11. 2022.md",
-    "ZÁPISKY/ZPD/ZPD - 5 - Halogeny - 29.11.2022.md",
-    "ZÁPISKY/ZPD/ZPD - 4 - Chemické Prvky - 28.11.2022.md",
-    "ZÁPISKY/PRV/PRV - X - POJMY - 7.12.2022.md",
-    "ZÁPISKY/PRV/PRV - 1 - Datová komprese - 16. 11. 2022.md"
+    "ZÁPISKY/ZPD/ZPD - 2 - Kovy - 4. 11. 2022.md"
   ]
 }
