@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4978258469e23567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/PHW/PHW - 5 - Grafická Karta - 15.12.2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 324
   },
   "right": {
     "id": "a9b3a7b3fc894469",
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZÁPISKY/LIT/LIT - 8 - Husictví - 5. 12. 2022.md",
+                "file": "ZÁPISKY/PHW/PHW - 5 - Grafická Karta - 15.12.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZÁPISKY/LIT/LIT - 8 - Husictví - 5. 12. 2022.md",
+                "file": "ZÁPISKY/PHW/PHW - 5 - Grafická Karta - 15.12.2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZÁPISKY/LIT/LIT - 8 - Husictví - 5. 12. 2022.md"
+                "file": "ZÁPISKY/PHW/PHW - 5 - Grafická Karta - 15.12.2022.md"
               }
             }
           },
@@ -184,17 +196,17 @@
     "direction": "horizontal",
     "width": 366.5
   },
-  "active": "d221fb3d8879ca7f",
+  "active": "f6d18829ad7065d4",
   "lastOpenFiles": [
+    "ZÁPISKY/PHW/PHW - 3 - Procesor - 21. 11. 2022.md",
+    "ZÁPISKY/PHW/PHW - 5 - Grafická Karta - 15.12.2022.md",
+    "ZÁPISKY/LIT/LIT - 8 - Husictví - 5. 12. 2022.md",
     "ZÁPISKY/LIT/LIT - 9 - Mistr Jan Hus- 8. 12. 2022.md",
     "ZÁPISKY/LIT/LIT - 6 - Středověk v Čechách a na Moravě - 1. 12. 2022.md",
     "ZÁPISKY/LIT/LIT - 4 - Středověká evropská literatura - 21. 11. 2022.md",
     "ZÁPISKY/LIT/LIT - 3 - Středověká literatura - 10. 11. 2022.md",
     "ZÁPISKY/LIT/LIT - 10 - Vavřinec z Březové, Václav Šašek z Bířkova - 12. 12. 2022.md",
     "ZÁPISKY/LIT/LIT - 2 - Římská Kultura 2  - 7. 11. 2022.md",
-    "ZÁPISKY/LIT/LIT - 8 - Husictví - 5. 12. 2022.md",
-    "ZÁPISKY/LIT/LIT - 7 - Středověká literatura - Čechy a Morava - 24. 11. 2022.md",
-    "ZÁPISKY/CJ/CJ - 6 - Morfematický, Tvarový a Slovotvorný rozbor slova - 15. 11. 2022.md",
-    "ZÁPISKY/CJ/CJ - 7 - Pravopis 2 - 29. 11. 2022.md"
+    "ZÁPISKY/LIT/LIT - 7 - Středověká literatura - Čechy a Morava - 24. 11. 2022.md"
   ]
 }
