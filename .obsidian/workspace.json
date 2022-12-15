@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aab6ad7438fbd79f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/LIT/LIT - 11 - Petr Chelčický - 15. 12. 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZÁPISKY/LIT/LIT - 8 - Husictví - 5. 12. 2022.md",
+                "file": "ZÁPISKY/LIT/LIT - 11 - Petr Chelčický - 15. 12. 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZÁPISKY/LIT/LIT - 8 - Husictví - 5. 12. 2022.md",
+                "file": "ZÁPISKY/LIT/LIT - 11 - Petr Chelčický - 15. 12. 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZÁPISKY/LIT/LIT - 8 - Husictví - 5. 12. 2022.md"
+                "file": "ZÁPISKY/LIT/LIT - 11 - Petr Chelčický - 15. 12. 2022.md"
               }
             }
           },
@@ -184,17 +196,17 @@
     "direction": "horizontal",
     "width": 366.5
   },
-  "active": "d221fb3d8879ca7f",
+  "active": "aab6ad7438fbd79f",
   "lastOpenFiles": [
-    "ZÁPISKY/LIT/LIT - 9 - Mistr Jan Hus- 8. 12. 2022.md",
     "ZÁPISKY/LIT/LIT - 6 - Středověk v Čechách a na Moravě - 1. 12. 2022.md",
+    "ZÁPISKY/LIT/LIT - 11 - Petr Chelčický - 15. 12. 2022.md",
+    "ZÁPISKY/LIT/LIT - 8 - Husictví - 5. 12. 2022.md",
+    "ZÁPISKY/LIT/LIT - 9 - Mistr Jan Hus- 8. 12. 2022.md",
     "ZÁPISKY/LIT/LIT - 4 - Středověká evropská literatura - 21. 11. 2022.md",
     "ZÁPISKY/LIT/LIT - 3 - Středověká literatura - 10. 11. 2022.md",
     "ZÁPISKY/LIT/LIT - 10 - Vavřinec z Březové, Václav Šašek z Bířkova - 12. 12. 2022.md",
     "ZÁPISKY/LIT/LIT - 2 - Římská Kultura 2  - 7. 11. 2022.md",
-    "ZÁPISKY/LIT/LIT - 8 - Husictví - 5. 12. 2022.md",
     "ZÁPISKY/LIT/LIT - 7 - Středověká literatura - Čechy a Morava - 24. 11. 2022.md",
-    "ZÁPISKY/CJ/CJ - 6 - Morfematický, Tvarový a Slovotvorný rozbor slova - 15. 11. 2022.md",
-    "ZÁPISKY/CJ/CJ - 7 - Pravopis 2 - 29. 11. 2022.md"
+    "ZÁPISKY/CJ/CJ - 6 - Morfematický, Tvarový a Slovotvorný rozbor slova - 15. 11. 2022.md"
   ]
 }
