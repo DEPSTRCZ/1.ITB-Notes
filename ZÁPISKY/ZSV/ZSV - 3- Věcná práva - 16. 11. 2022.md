@@ -1,6 +1,6 @@
 ---
 parent: ZakladySpolecenskychVed
-nav_order: 2
+nav_order: 3
 ---
 # ZSV - 3- Věcná práva - 16. 11. 2022
 - Absolutní majetkové právo - subjektivní právo učitého subjektu, ostatním subjektům vzniká povinnost nezasahovat do něj.
