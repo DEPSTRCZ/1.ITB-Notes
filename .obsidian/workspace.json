@@ -11,8 +11,24 @@
             "id": "c923e768bbcaaa54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/LIT/LIT - 12 - Renesance - 9. 1. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "256f4fdbd44e59f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/PHW/PHW - 7 - Optické mechaniky - 9. 1. 2023.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -129,7 +145,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,6 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ZÁPISKY/PHW/PHW - 7 - Optické mechaniky - 9. 1. 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,6 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ZÁPISKY/PHW/PHW - 7 - Optické mechaniky - 9. 1. 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +267,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ZÁPISKY/PHW/PHW - 7 - Optické mechaniky - 9. 1. 2023.md"
+              }
             }
           },
           {
@@ -277,17 +298,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f2dbc4d0357bcdd",
+  "active": "256f4fdbd44e59f2",
   "lastOpenFiles": [
+    "ZÁPISKY/PHW/PHW - 5 - Paměti - 24. 11. 2022.md",
+    "ZÁPISKY/PHW/PHW - 7 - Optické mechaniky - 9. 1. 2023.md",
+    "ZÁPISKY/LIT/LIT - 12 - Renesance - 9. 1. 2023.md",
     "ZÁPISKY/ICT/ICT - Disky-Managment - 9. 11. 2022.md",
     "ZÁPISKY/CJ/CJ - 6 - Morfematický, Tvarový a Slovotvorný rozbor slova - 15. 11. 2022.md",
     "ZÁPISKY/CJ/CJ - 5 - Nauka o slovní zásobě - 11. 11. 2022.md",
     "ZÁPISKY/CJ/Untitled.md",
     "ZÁPISKY/CJ/CJ - 10 - Didaktický test - 4. 1. 2023.md",
     "ZÁPISKY/CJ/CJ - 7 - Pravopis 2 - 29. 11. 2022.md",
-    "ZÁPISKY/CJ/CJ - 8 - Předložky x Předpony s-z - 7. 12. 2022.md",
-    "ZÁPISKY/CJ/CJ - 9 - Velká písmena - 9. 12. 2022.md",
-    "ZÁPISKY/CJ/CJ - 2 - Jazykovědné discliplíny - 1. 11. 2022.md",
-    "ZÁPISKY/CJ/CJ - 1 - Nespisovné útvary jazyka, norma a kodifikace - 21. 10. 2022.md"
+    "ZÁPISKY/CJ/CJ - 8 - Předložky x Předpony s-z - 7. 12. 2022.md"
   ]
 }
