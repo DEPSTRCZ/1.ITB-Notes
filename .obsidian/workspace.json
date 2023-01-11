@@ -13,19 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZÁPISKY/LIT/LIT - 12 - Renesance - 9. 1. 2023.md",
+                "file": "ZÁPISKY/ZPD/ZPD - 1 - Zákon zachvání hmotnosti - 21. 10. 2022.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "256f4fdbd44e59f2",
+            "id": "d274592ddfe7a3eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZÁPISKY/PHW/PHW - 7 - Optické mechaniky - 9. 1. 2023.md",
+                "file": "ZÁPISKY/ZSV/ZSV - X - Rodinný Rozpočet - 11.01.2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed19a732b617318a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/DEJ/DEJ - 11 - Starověký Řím - 11.01.2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,6 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "44f09f0c075dee69",
             "type": "leaf",
             "state": {
@@ -80,93 +91,14 @@
           },
           {
             "id": "34101a57dcbb8249",
-=======
-            "id": "21c99ae2c7a4e36f",
->>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
-            }
-<<<<<<< HEAD
-          }
-        ],
-        "currentTab": 5
-=======
-          },
-          {
-            "id": "316b3a5dfe7be1f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/DEJ/DEJ - 7 - Sparta x Athény - 19. 12. 2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b60443c460c9124",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "41bdc6ebf9238d66",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "137542650fc84c74",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "bc590ceeb75ba885",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/ZSV/ZSV - 5 - Otázky a úkoly - 4. 1. 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10da7fef428ea128",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "ZÁPISKY/ZSV/ZSV - 3- Věcná práva - 16. 11. 2022.md",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "96f6022d0b768f54",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "ZÁPISKY/PHW/PHW - 5 - Paměti - 24. 11. 2022.md",
-                "staged": false
-              }
             }
           }
         ],
-        "currentTab": 1
->>>>>>> origin/main
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kinetick",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -248,10 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "ZÁPISKY/PHW/PHW - 7 - Optické mechaniky - 9. 1. 2023.md",
->>>>>>> origin/main
+                "file": "ZÁPISKY/DEJ/DEJ - 11 - Starověký Řím - 11.01.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,10 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "ZÁPISKY/PHW/PHW - 7 - Optické mechaniky - 9. 1. 2023.md",
->>>>>>> origin/main
+                "file": "ZÁPISKY/DEJ/DEJ - 11 - Starověký Řím - 11.01.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,13 +219,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
-              "state": {}
-=======
               "state": {
-                "file": "ZÁPISKY/PHW/PHW - 7 - Optické mechaniky - 9. 1. 2023.md"
+                "file": "ZÁPISKY/DEJ/DEJ - 11 - Starověký Řím - 11.01.2023.md"
               }
->>>>>>> origin/main
             }
           },
           {
@@ -328,32 +250,17 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "4f2dbc4d0357bcdd",
+  "active": "ed19a732b617318a",
   "lastOpenFiles": [
-    "ZÁPISKY/DEJ/Untitled.md",
-    "Pasted image 20221116081935.png",
-    "Pasted image 20221116081721.png",
-    "Pasted image 20221116082006.png",
+    "ZÁPISKY/ZSV/ZSV - X - Rodinný Rozpočet - 11.01.2023.md",
     "ZÁPISKY/ZSV/Untitled.md",
-    "ZÁPISKY/PHW/PHW - 5 - Grafická Karta - 15.12.2022.md",
+    "ZÁPISKY/DEJ/DEJ - 11 - Starověký Řím - 11.01.2023.md",
+    "ZÁPISKY/DEJ/DEJ - 7 - Sparta x Athény - 19. 12. 2022.md",
+    "ZÁPISKY/ZSV/ZSV - 5 - Otázky a úkoly - 4. 1. 2023.md",
+    "ZÁPISKY/ZPD/ZPD - 1 - Zákon zachvání hmotnosti - 21. 10. 2022.md",
     "ZÁPISKY/LIT/LIT - 9 - Mistr Jan Hus- 8. 12. 2022.md",
-    "ZÁPISKY/PHW/PHW - 3 - Procesor - 21. 11. 2022.md",
-    "ZÁPISKY/LIT/LIT - 8 - Husictví - 5. 12. 2022.md",
-    "ZÁPISKY/LIT/LIT - 6 - Středověk v Čechách a na Moravě - 1. 12. 2022.md"
-=======
-  "active": "256f4fdbd44e59f2",
-  "lastOpenFiles": [
-    "ZÁPISKY/PHW/PHW - 5 - Paměti - 24. 11. 2022.md",
-    "ZÁPISKY/PHW/PHW - 7 - Optické mechaniky - 9. 1. 2023.md",
-    "ZÁPISKY/LIT/LIT - 12 - Renesance - 9. 1. 2023.md",
-    "ZÁPISKY/ICT/ICT - Disky-Managment - 9. 11. 2022.md",
-    "ZÁPISKY/CJ/CJ - 6 - Morfematický, Tvarový a Slovotvorný rozbor slova - 15. 11. 2022.md",
-    "ZÁPISKY/CJ/CJ - 5 - Nauka o slovní zásobě - 11. 11. 2022.md",
-    "ZÁPISKY/CJ/Untitled.md",
-    "ZÁPISKY/CJ/CJ - 10 - Didaktický test - 4. 1. 2023.md",
-    "ZÁPISKY/CJ/CJ - 7 - Pravopis 2 - 29. 11. 2022.md",
-    "ZÁPISKY/CJ/CJ - 8 - Předložky x Předpony s-z - 7. 12. 2022.md"
->>>>>>> origin/main
+    "ZÁPISKY/DEJ/DEJ - 8 - - 09.01.2023.md",
+    "Pasted image 20221116081935.png",
+    "Pasted image 20221116081721.png"
   ]
 }
