@@ -25,7 +25,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZÁPISKY/PHW/PHW - 7 - Optické mechaniky - 9. 1. 2023.md",
+                "file": "ZÁPISKY/ICT/ICT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d29b6f42a001d05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c840efc15e9ae8eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f4bbec8626eabf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/CJ/CJ - 11 - - 13. 1. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f983219d7eecf917",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/DEJ/DEJ - 8 - Revoluce v Českých zemích - 16. 1. 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -228,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZÁPISKY/PHW/PHW - 7 - Optické mechaniky - 9. 1. 2023.md",
+                "file": "ZÁPISKY/DEJ/DEJ - 8 - Revoluce v Českých zemích - 16. 1. 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZÁPISKY/PHW/PHW - 7 - Optické mechaniky - 9. 1. 2023.md",
+                "file": "ZÁPISKY/DEJ/DEJ - 8 - Revoluce v Českých zemích - 16. 1. 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZÁPISKY/PHW/PHW - 7 - Optické mechaniky - 9. 1. 2023.md"
+                "file": "ZÁPISKY/DEJ/DEJ - 8 - Revoluce v Českých zemích - 16. 1. 2023.md"
               }
             }
           },
@@ -298,17 +346,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "256f4fdbd44e59f2",
+  "active": "f983219d7eecf917",
   "lastOpenFiles": [
-    "ZÁPISKY/PHW/PHW - 5 - Paměti - 24. 11. 2022.md",
-    "ZÁPISKY/PHW/PHW - 7 - Optické mechaniky - 9. 1. 2023.md",
-    "ZÁPISKY/LIT/LIT - 12 - Renesance - 9. 1. 2023.md",
-    "ZÁPISKY/ICT/ICT - Disky-Managment - 9. 11. 2022.md",
-    "ZÁPISKY/CJ/CJ - 6 - Morfematický, Tvarový a Slovotvorný rozbor slova - 15. 11. 2022.md",
-    "ZÁPISKY/CJ/CJ - 5 - Nauka o slovní zásobě - 11. 11. 2022.md",
-    "ZÁPISKY/CJ/Untitled.md",
+    "ZÁPISKY/DEJ/DEJ - 7 - Sparta x Athény - 19. 12. 2022.md",
+    "ZÁPISKY/DEJ/DEJ - 8 - Revoluce v Českých zemích - 16. 1. 2023.md",
+    "ZÁPISKY/CJ/CJ - 11 - - 13. 1. 2023.md",
     "ZÁPISKY/CJ/CJ - 10 - Didaktický test - 4. 1. 2023.md",
-    "ZÁPISKY/CJ/CJ - 7 - Pravopis 2 - 29. 11. 2022.md",
-    "ZÁPISKY/CJ/CJ - 8 - Předložky x Předpony s-z - 7. 12. 2022.md"
+    "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md",
+    "ZÁPISKY/LIT/LIT - 13 - Renesance 2 - 12. 1. 2023.md",
+    "ZÁPISKY/LIT/LIT - 12 - Renesance - 9. 1. 2023.md",
+    "ZÁPISKY/PRV/PRV - 1 - Datová komprese - 16. 11. 2022.md",
+    "ZÁPISKY/ICT/ICT.md",
+    "ZÁPISKY/EN/EN - 1 - Christmas - 19. 12. 2022.md"
   ]
 }
