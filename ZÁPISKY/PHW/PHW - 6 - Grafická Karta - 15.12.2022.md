@@ -1,6 +1,6 @@
 ---
 parent: PocitacovyHardware
-nav_order: 5
+nav_order: 6
 ---
 # PHW - 5 - Grafická Karta - 15.12.2022
 - Používá se pro vizuální výstup z počítače

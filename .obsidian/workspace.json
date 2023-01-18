@@ -4,36 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "88d2fdb49411e605",
+        "id": "724278293ddca997",
         "type": "tabs",
         "children": [
           {
-            "id": "c923e768bbcaaa54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/ZPD/ZPD - 1 - Zákon zachvání hmotnosti - 21. 10. 2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d274592ddfe7a3eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "ZÁPISKY/ICT/ICT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d29b6f42a001d05",
+            "id": "7225f0fce2b930ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,119 +17,9 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "c840efc15e9ae8eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f4bbec8626eabf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/CJ/CJ - 11 - - 13. 1. 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f983219d7eecf917",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/DEJ/DEJ - 8 - Revoluce v Českých zemích - 16. 1. 2023.md",
-=======
-                "file": "ZÁPISKY/ZSV/ZSV - X - Rodinný Rozpočet - 11.01.2023.md",
->>>>>>> origin/main
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed19a732b617318a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/DEJ/DEJ - 11 - Starověký Řím - 11.01.2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68271410243fb7c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/CJ/CJ - 9 - Velká písmena - 9. 12. 2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d221fb3d8879ca7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/LIT/LIT - 8 - Husictví - 5. 12. 2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4978258469e23567",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/PHW/PHW - 5 - Grafická Karta - 15.12.2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44f09f0c075dee69",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20221116081935.png"
-              }
-            }
-          },
-          {
-            "id": "34101a57dcbb8249",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-<<<<<<< HEAD
-        "currentTab": 5
-=======
-        "currentTab": 2
->>>>>>> origin/main
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kinetick",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324
+    "width": 300
   },
   "right": {
     "id": "a9b3a7b3fc894469",
@@ -217,9 +82,11 @@
           {
             "id": "4f2dbc4d0357bcdd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           },
           {
@@ -236,11 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "ZÁPISKY/DEJ/DEJ - 8 - Revoluce v Českých zemích - 16. 1. 2023.md",
-=======
-                "file": "ZÁPISKY/DEJ/DEJ - 11 - Starověký Řím - 11.01.2023.md",
->>>>>>> origin/main
+                "file": "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,11 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "ZÁPISKY/DEJ/DEJ - 8 - Revoluce v Českých zemích - 16. 1. 2023.md",
-=======
-                "file": "ZÁPISKY/DEJ/DEJ - 11 - Starověký Řím - 11.01.2023.md",
->>>>>>> origin/main
+                "file": "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,11 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "ZÁPISKY/DEJ/DEJ - 8 - Revoluce v Českých zemích - 16. 1. 2023.md"
-=======
-                "file": "ZÁPISKY/DEJ/DEJ - 11 - Starověký Řím - 11.01.2023.md"
->>>>>>> origin/main
+                "file": "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md"
               }
             }
           },
@@ -304,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 260.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -318,32 +173,17 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "f983219d7eecf917",
+  "active": "7225f0fce2b930ad",
   "lastOpenFiles": [
-    "ZÁPISKY/DEJ/DEJ - 7 - Sparta x Athény - 19. 12. 2022.md",
-    "ZÁPISKY/DEJ/DEJ - 8 - Revoluce v Českých zemích - 16. 1. 2023.md",
-    "ZÁPISKY/CJ/CJ - 11 - - 13. 1. 2023.md",
-    "ZÁPISKY/CJ/CJ - 10 - Didaktický test - 4. 1. 2023.md",
-    "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md",
-    "ZÁPISKY/LIT/LIT - 13 - Renesance 2 - 12. 1. 2023.md",
-    "ZÁPISKY/LIT/LIT - 12 - Renesance - 9. 1. 2023.md",
-    "ZÁPISKY/PRV/PRV - 1 - Datová komprese - 16. 11. 2022.md",
-    "ZÁPISKY/ICT/ICT.md",
-    "ZÁPISKY/EN/EN - 1 - Christmas - 19. 12. 2022.md"
-=======
-  "active": "ed19a732b617318a",
-  "lastOpenFiles": [
-    "ZÁPISKY/ZSV/ZSV - X - Rodinný Rozpočet - 11.01.2023.md",
-    "ZÁPISKY/ZSV/Untitled.md",
-    "ZÁPISKY/DEJ/DEJ - 11 - Starověký Řím - 11.01.2023.md",
-    "ZÁPISKY/DEJ/DEJ - 7 - Sparta x Athény - 19. 12. 2022.md",
-    "ZÁPISKY/ZSV/ZSV - 5 - Otázky a úkoly - 4. 1. 2023.md",
-    "ZÁPISKY/ZPD/ZPD - 1 - Zákon zachvání hmotnosti - 21. 10. 2022.md",
-    "ZÁPISKY/LIT/LIT - 9 - Mistr Jan Hus- 8. 12. 2022.md",
-    "ZÁPISKY/DEJ/DEJ - 8 - - 09.01.2023.md",
-    "Pasted image 20221116081935.png",
-    "Pasted image 20221116081721.png"
->>>>>>> origin/main
+    "ZÁPISKY/PHW/PHW - 6 - Grafická Karta - 15.12.2022.md",
+    "ZÁPISKY/OSY/OSY - 1 - Malware - 8. 11. 2022.md",
+    "ZÁPISKY/OSY/OPERACNISYSTEMY.md",
+    "ZÁPISKY/OSY/OSY - 2 - Operační systém - 8. 11. 2022 1.md",
+    "LIT/Tereza Nováková.md",
+    "LIT/Dětská Literatura.md",
+    "LIT/Ladislav Stroupežnický.md",
+    "LIT/Alois a Vilém Mrštíkové.md",
+    "LIT/Jindřich Šimon Baar.md",
+    "LIT/Karel Václav Rais.md"
   ]
 }
