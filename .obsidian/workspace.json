@@ -18,8 +18,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "26736a233b954e8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80f92007bd915ad7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/LIT/LIT - 12 - Renesance - 9. 1. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9f2fe34dd30cc62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/CJ/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ec773cf680fa34a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/ZSV/ZSV - X - Rodinný Rozpočet - 11.01.2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f4a27c86c7bfb2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/LIT/LIT - 16 - Renesance 5 - 26. 1. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -103,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md",
+                "file": "ZÁPISKY/LIT/LIT - 16 - Renesance 5 - 26. 1. 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md",
+                "file": "ZÁPISKY/LIT/LIT - 16 - Renesance 5 - 26. 1. 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md"
+                "file": "ZÁPISKY/LIT/LIT - 16 - Renesance 5 - 26. 1. 2023.md"
               }
             }
           },
@@ -173,17 +234,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7225f0fce2b930ad",
+  "active": "7f4a27c86c7bfb2b",
   "lastOpenFiles": [
-    "ZÁPISKY/PHW/PHW - 6 - Grafická Karta - 15.12.2022.md",
-    "ZÁPISKY/OSY/OSY - 1 - Malware - 8. 11. 2022.md",
-    "ZÁPISKY/OSY/OPERACNISYSTEMY.md",
-    "ZÁPISKY/OSY/OSY - 2 - Operační systém - 8. 11. 2022 1.md",
-    "LIT/Tereza Nováková.md",
-    "LIT/Dětská Literatura.md",
-    "LIT/Ladislav Stroupežnický.md",
-    "LIT/Alois a Vilém Mrštíkové.md",
-    "LIT/Jindřich Šimon Baar.md",
-    "LIT/Karel Václav Rais.md"
+    "ZÁPISKY/LIT/LIT - 15 - Renesance 4 - 23. 1. 2023.md",
+    "ZÁPISKY/LIT/LIT - 16 - Renesance 5 - 26. 1. 2023.md",
+    "ZÁPISKY/ZSV/ZSV - X - Rodinný Rozpočet - 11.01.2023.md",
+    "ZÁPISKY/ZSV/ZSV - 5 - Otázky a úkoly - 4. 1. 2023.md",
+    "ZÁPISKY/CJ/CJ - 11 - Sloh Vyprávění - 24. 1. 2023.md",
+    "ZÁPISKY/CJ/CJ - 10 - Didaktický test - 4. 1. 2023.md",
+    "ZÁPISKY/CJ/CJ - 7 - Pravopis 2 - 29. 11. 2022.md",
+    "ZÁPISKY/CJ/Untitled.md",
+    "ZÁPISKY/LIT/LIT - 14 - Renesance 3 - 19. 1. 2023.md",
+    "ZÁPISKY/LIT/LIT - 12 - Renesance - 9. 1. 2023.md"
   ]
 }
