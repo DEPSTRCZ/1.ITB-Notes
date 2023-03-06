@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md",
+                "file": "ZÁPISKY/EN/EN - 2 - Have Have got - 27. 1. 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -233,8 +233,7 @@
               }
             }
           }
-        ],
-        "currentTab": 18
+        ]
       }
     ],
     "direction": "vertical"
@@ -318,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md",
+                "file": "ZÁPISKY/EN/EN - 2 - Have Have got - 27. 1. 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md",
+                "file": "ZÁPISKY/EN/EN - 2 - Have Have got - 27. 1. 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -358,7 +357,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md"
+                "file": "ZÁPISKY/EN/EN - 2 - Have Have got - 27. 1. 2023.md"
               }
             }
           },
@@ -388,12 +387,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f2dbc4d0357bcdd",
+  "active": "7225f0fce2b930ad",
   "lastOpenFiles": [
-    "ZÁPISKY/EN/EN - 1 21. 10. 2022.md",
     "ZÁPISKY/EN/EN - 1 - Christmas - 19. 12. 2022.md",
-    "ZÁPISKY/EN/EN - EMAIL.md",
+    "ZÁPISKY/EKO/EKO - 1 - Trh - 4. 11. 2022.md",
+    "ZÁPISKY/EKO/EKONOMIKA.md",
     "ZÁPISKY/EN/ANGLICTINA.md",
+    "ZÁPISKY/EN/EN - 2 - Have Have got - 27. 1. 2023.md",
+    "ZÁPISKY/LIT/LIT - 8 - Husictví - 5. 12. 2022.md",
+    "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md",
+    "ZÁPISKY/EN/EN - 1 21. 10. 2022.md",
+    "ZÁPISKY/EN/EN - EMAIL.md",
     "ZÁPISKY/LIT/LIT - 21 - Renesance 10 - 23. 2. 2023.md",
     "ZÁPISKY/LIT/LIT - 10 - Vavřinec z Březové, Václav Šašek z Bířkova - 12. 12. 2022.md",
     "ZÁPISKY/LIT/LIT - 11 - Petr Chelčický - 15. 12. 2022.md",
@@ -410,7 +414,6 @@
     "ZÁPISKY/CJ/CJ - 12 - Dialog - 17.2 2023.md",
     "ZÁPISKY/CJ/Untitled.md",
     "ZÁPISKY/PHW/PHW - 9 - Elektronická datová média - 16. 2. 2023.md",
-    "ZÁPISKY/LIT/LIT - 19 - Renesance 8 - 16. 2. 2023.md",
-    "ZÁPISKY/LIT/LIT - 18 - Renesance 7 - 2. 2. 2023.md"
+    "ZÁPISKY/LIT/LIT - 19 - Renesance 8 - 16. 2. 2023.md"
   ]
 }
