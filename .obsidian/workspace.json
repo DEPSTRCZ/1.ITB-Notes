@@ -318,6 +318,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,6 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -355,7 +357,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md"
+              }
             }
           },
           {
@@ -384,8 +388,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6d18829ad7065d4",
+  "active": "4f2dbc4d0357bcdd",
   "lastOpenFiles": [
+    "ZÁPISKY/EN/EN - 1 21. 10. 2022.md",
     "ZÁPISKY/EN/EN - 1 - Christmas - 19. 12. 2022.md",
     "ZÁPISKY/EN/EN - EMAIL.md",
     "ZÁPISKY/EN/ANGLICTINA.md",
