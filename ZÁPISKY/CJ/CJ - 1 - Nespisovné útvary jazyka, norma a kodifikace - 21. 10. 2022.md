@@ -18,4 +18,4 @@ nav_order: 1
 	- *Norma:*
 		> představuje ustálené jazykové prostředky a pravidla jejich užívání
 	- *Kodifikace:*
-		> ***Kodifikace*** je soubor jazykových pravidel zachycených v oficiálních jazykových příručkách. 
+		> ***Kodifikace*** je soubor jazykových pravidel zachycených v oficiálních jazykových příručkách.

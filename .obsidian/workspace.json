@@ -73,14 +73,204 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZÁPISKY/LIT/LIT - 16 - Renesance 5 - 26. 1. 2023.md",
+                "file": "ZÁPISKY/CJ/CJ - 11 - Sloh Vyprávění - 24. 1. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "094fea01ed2cc1dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/EN/EN - 2 - Have Have got - 27. 1. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1eb501416436dd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/DEJ/DEJ - 3 - Novější dějny - 7. 11. 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46d954a0047a11ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/LIT/LIT - 17 - Renesance 6 - 30. 1. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e0546be2dd17af5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/PHW/PHW - 1 - Základní deska 1 - 31. 10. 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51e0c584ad008f0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/LIT/LIT - 18 - Renesance 7 - 2. 2. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5364a7edf3c05548",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/LIT/LIT - 19 - Renesance 8 - 16. 2. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1c12296726691d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/PHW/PHW - 9 - Elektronická datová média - 16. 2. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9bafbf01e2c7abc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/LIT/LIT - 18 - Renesance 7 - 2. 2. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "152662e8fcbb4ce1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/LIT/LIT - 20 - Renesance 9 - 20. 2. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e6b6014aa81229f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/EN/EN - EMAIL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de448e998768ca52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/CJ/CJ - 13 - Dopis a telefonát - 21. 2. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7803e396eeb49714",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/DEJ/DEJ - 12 - Období vlády císaře Jusiniána I. - 27. 2. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51ccb5c6365527e4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
+          },
+          {
+            "id": "c8b0541a87131b46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/CJ/CJ - 13 - Dopis a telefonát - 21. 2. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "511de64929ec22dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/CJ/CJ - 14 - Životopis - 3. 3. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5fd2c42d67aa634",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/LIT/LIT - 9 - Mistr Jan Hus- 8. 12. 2022.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -130,7 +320,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 392
   },
   "right": {
     "id": "a9b3a7b3fc894469",
@@ -164,7 +354,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZÁPISKY/LIT/LIT - 16 - Renesance 5 - 26. 1. 2023.md",
+                "file": "ZÁPISKY/LIT/LIT - 9 - Mistr Jan Hus- 8. 12. 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +371,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZÁPISKY/LIT/LIT - 16 - Renesance 5 - 26. 1. 2023.md",
+                "file": "ZÁPISKY/LIT/LIT - 9 - Mistr Jan Hus- 8. 12. 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +394,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZÁPISKY/LIT/LIT - 16 - Renesance 5 - 26. 1. 2023.md"
+                "file": "ZÁPISKY/LIT/LIT - 9 - Mistr Jan Hus- 8. 12. 2022.md"
               }
             }
           },
@@ -234,17 +424,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f4a27c86c7bfb2b",
+  "active": "f5fd2c42d67aa634",
   "lastOpenFiles": [
-    "ZÁPISKY/LIT/LIT - 15 - Renesance 4 - 23. 1. 2023.md",
-    "ZÁPISKY/LIT/LIT - 16 - Renesance 5 - 26. 1. 2023.md",
-    "ZÁPISKY/ZSV/ZSV - X - Rodinný Rozpočet - 11.01.2023.md",
-    "ZÁPISKY/ZSV/ZSV - 5 - Otázky a úkoly - 4. 1. 2023.md",
-    "ZÁPISKY/CJ/CJ - 11 - Sloh Vyprávění - 24. 1. 2023.md",
-    "ZÁPISKY/CJ/CJ - 10 - Didaktický test - 4. 1. 2023.md",
-    "ZÁPISKY/CJ/CJ - 7 - Pravopis 2 - 29. 11. 2022.md",
+    "ZÁPISKY/CJ/CJ - 13 - Dopis a telefonát - 21. 2. 2023.md",
+    "ZÁPISKY/CJ/CJ - 14 - Životopis - 3. 3. 2023.md",
+    "ZÁPISKY/DEJ/DEJ - 12 - Období vlády císaře Jusiniána I. - 27. 2. 2023.md",
+    "ZÁPISKY/DEJ/DEJ - 11 - Starověký Řím - 11.01.2023.md",
+    "ZÁPISKY/PHW/PHW - 10 - SDD - Solid State Drive - 20. 2. 2023.md",
+    "ZÁPISKY/PHW/PHW - 5 - Paměti - 24. 11. 2022.md",
+    "ZÁPISKY/LIT/LIT - 21 - Renesance 10 - 23. 2. 2023.md",
+    "ZÁPISKY/LIT/LIT - 20 - Renesance 9 - 20. 2. 2023.md",
+    "ZÁPISKY/CJ/CJ - 12 - Dialog - 17.2 2023.md",
+    "ZÁPISKY/EN/EN - EMAIL.md",
     "ZÁPISKY/CJ/Untitled.md",
-    "ZÁPISKY/LIT/LIT - 14 - Renesance 3 - 19. 1. 2023.md",
-    "ZÁPISKY/LIT/LIT - 12 - Renesance - 9. 1. 2023.md"
+    "ZÁPISKY/PHW/PHW - 9 - Elektronická datová média - 16. 2. 2023.md",
+    "ZÁPISKY/LIT/LIT - 19 - Renesance 8 - 16. 2. 2023.md",
+    "ZÁPISKY/LIT/LIT - 18 - Renesance 7 - 2. 2. 2023.md",
+    "ZÁPISKY/LIT/LIT - 7 - Středověká literatura - Čechy a Morava - 24. 11. 2022.md"
   ]
 }
