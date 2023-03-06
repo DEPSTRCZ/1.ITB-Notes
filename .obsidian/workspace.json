@@ -188,18 +188,6 @@
             }
           },
           {
-            "id": "4e6b6014aa81229f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/EN/EN - EMAIL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "de448e998768ca52",
             "type": "leaf",
             "state": {
@@ -244,33 +232,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "511de64929ec22dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/CJ/CJ - 14 - Životopis - 3. 3. 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5fd2c42d67aa634",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/EN/ANGLICTINA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -354,7 +318,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZÁPISKY/EN/ANGLICTINA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +334,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZÁPISKY/EN/ANGLICTINA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -393,9 +355,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ZÁPISKY/EN/ANGLICTINA.md"
-              }
+              "state": {}
             }
           },
           {
@@ -424,9 +384,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5fd2c42d67aa634",
+  "active": "f6d18829ad7065d4",
   "lastOpenFiles": [
     "ZÁPISKY/EN/EN - 1 - Christmas - 19. 12. 2022.md",
+    "ZÁPISKY/EN/EN - EMAIL.md",
+    "ZÁPISKY/EN/ANGLICTINA.md",
     "ZÁPISKY/LIT/LIT - 21 - Renesance 10 - 23. 2. 2023.md",
     "ZÁPISKY/LIT/LIT - 10 - Vavřinec z Březové, Václav Šašek z Bířkova - 12. 12. 2022.md",
     "ZÁPISKY/LIT/LIT - 11 - Petr Chelčický - 15. 12. 2022.md",
@@ -441,7 +403,6 @@
     "ZÁPISKY/PHW/PHW - 5 - Paměti - 24. 11. 2022.md",
     "ZÁPISKY/LIT/LIT - 20 - Renesance 9 - 20. 2. 2023.md",
     "ZÁPISKY/CJ/CJ - 12 - Dialog - 17.2 2023.md",
-    "ZÁPISKY/EN/EN - EMAIL.md",
     "ZÁPISKY/CJ/Untitled.md",
     "ZÁPISKY/PHW/PHW - 9 - Elektronická datová média - 16. 2. 2023.md",
     "ZÁPISKY/LIT/LIT - 19 - Renesance 8 - 16. 2. 2023.md",
