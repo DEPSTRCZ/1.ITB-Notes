@@ -8,60 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7225f0fce2b930ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/EN/EN - 2 - Have Have got - 27. 1. 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26736a233b954e8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80f92007bd915ad7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/LIT/LIT - 12 - Renesance - 9. 1. 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9f2fe34dd30cc62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/CJ/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7ec773cf680fa34a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZÁPISKY/ZSV/ZSV - X - Rodinný Rozpočet - 11.01.2023.md",
+                "file": "ZÁPISKY/EN/ANGLICTINA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f22cafb48423f65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/DEJ/DEJ - 13 - Francie 1871 - 6. 3. 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -232,8 +196,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "952b407b601ba294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/EN/EN - 3 - Regular and Irregular verbs - 7. 3. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -262,7 +239,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kinetick",
+                "query": "tag:#DEJ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -317,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZÁPISKY/EN/EN - 2 - Have Have got - 27. 1. 2023.md",
+                "file": "ZÁPISKY/EN/EN - 3 - Regular and Irregular verbs - 7. 3. 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZÁPISKY/EN/EN - 2 - Have Have got - 27. 1. 2023.md",
+                "file": "ZÁPISKY/EN/EN - 3 - Regular and Irregular verbs - 7. 3. 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -357,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZÁPISKY/EN/EN - 2 - Have Have got - 27. 1. 2023.md"
+                "file": "ZÁPISKY/EN/EN - 3 - Regular and Irregular verbs - 7. 3. 2023.md"
               }
             }
           },
@@ -387,13 +364,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7225f0fce2b930ad",
+  "active": "952b407b601ba294",
   "lastOpenFiles": [
+    "ZÁPISKY/EN/EN - 2 - Have Have got - 27. 1. 2023.md",
+    "ZÁPISKY/EN/EN - 3 - Regular and Irregular verbs - 7. 3. 2023.md",
+    "ZÁPISKY/EN/ANGLICTINA.md",
+    "ZÁPISKY/DEJ/DEJ - 12 - Období vlády císaře Jusiniána I. - 27. 2. 2023.md",
+    "ZÁPISKY/DEJ/DEJ - 13 - Francie 1871 - 6. 3. 2023.md",
+    "ZÁPISKY/CJ/Untitled.md",
+    "Untitled.md",
+    "ZÁPISKY/ZSV/ZAKLADYSPOLECENSKYCHVED.md",
+    "ZÁPISKY/PRX/PRAXE.md",
     "ZÁPISKY/EN/EN - 1 - Christmas - 19. 12. 2022.md",
     "ZÁPISKY/EKO/EKO - 1 - Trh - 4. 11. 2022.md",
     "ZÁPISKY/EKO/EKONOMIKA.md",
-    "ZÁPISKY/EN/ANGLICTINA.md",
-    "ZÁPISKY/EN/EN - 2 - Have Have got - 27. 1. 2023.md",
     "ZÁPISKY/LIT/LIT - 8 - Husictví - 5. 12. 2022.md",
     "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md",
     "ZÁPISKY/EN/EN - 1 21. 10. 2022.md",
@@ -406,14 +390,7 @@
     "ZÁPISKY/LIT/LIT - 6 - Středověk v Čechách a na Moravě - 1. 12. 2022.md",
     "ZÁPISKY/CJ/CJ - 13 - Dopis a telefonát - 21. 2. 2023.md",
     "ZÁPISKY/CJ/CJ - 14 - Životopis - 3. 3. 2023.md",
-    "ZÁPISKY/DEJ/DEJ - 12 - Období vlády císaře Jusiniána I. - 27. 2. 2023.md",
     "ZÁPISKY/DEJ/DEJ - 11 - Starověký Řím - 11.01.2023.md",
-    "ZÁPISKY/PHW/PHW - 10 - SDD - Solid State Drive - 20. 2. 2023.md",
-    "ZÁPISKY/PHW/PHW - 5 - Paměti - 24. 11. 2022.md",
-    "ZÁPISKY/LIT/LIT - 20 - Renesance 9 - 20. 2. 2023.md",
-    "ZÁPISKY/CJ/CJ - 12 - Dialog - 17.2 2023.md",
-    "ZÁPISKY/CJ/Untitled.md",
-    "ZÁPISKY/PHW/PHW - 9 - Elektronická datová média - 16. 2. 2023.md",
-    "ZÁPISKY/LIT/LIT - 19 - Renesance 8 - 16. 2. 2023.md"
+    "ZÁPISKY/PHW/PHW - 10 - SDD - Solid State Drive - 20. 2. 2023.md"
   ]
 }
