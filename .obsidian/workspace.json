@@ -11,9 +11,92 @@
             "id": "bf56da1f9a285e11",
             "type": "leaf",
             "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "734f0c16b81fb20f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "ZÁPISKY/ZSV/ZSV - X - Rasy, Etnika, Národy, Národnosti.md",
+                "file": "ZÁPISKY/DEJ/DEJ - X - České Prostředí - 13.2.2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd93c15972c65b78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/DEJ/DEJ - X Evropská Expance - 13.2.2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "accbe80c0fec369d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/PRV/PRV - X - Elektronická pošta - 15.02.2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7214a9686b02d85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/DEJ/DEJ - X - České Prostředí - 13.2.2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4dcf17f3ef3bcbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/ZSV/ZSV - X - Náboženství Sekty - 22.02.2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58e8cb73fe48c9fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/ZSV/ZSV - X - Náboženství Sekty - 22.02.2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3280e5abada0b697",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/ZSV/ZSV - X - Náboženství Sekty - 22.02.2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZÁPISKY/ZSV/ZSV - X - Rasy, Etnika, Národy, Národnosti.md",
+                "file": "Pasted image 20221116082006.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZÁPISKY/ZSV/ZSV - X - Rasy, Etnika, Národy, Národnosti.md",
+                "file": "Pasted image 20221116082006.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZÁPISKY/ZSV/ZSV - X - Rasy, Etnika, Národy, Národnosti.md"
+                "file": "Pasted image 20221116082006.png"
               }
             }
           },
@@ -171,17 +254,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf56da1f9a285e11",
+  "active": "4f2dbc4d0357bcdd",
   "lastOpenFiles": [
-    "ZÁPISKY/ZSV/ZSV - X - Rodinný Rozpočet - 11.01.2023.md",
+    "OBRÁZKY/PHW",
     "ZÁPISKY/ZSV/ZSV - X - Rasy, Etnika, Národy, Národnosti.md",
+    "OBRÁZKY/DEJ",
+    "OBRÁZKY",
+    "Untitled.md",
+    "ZÁPISKY/ZPD/ZPD - 7 - Mikroskopování - 13. 2. 2023.md",
+    "ZÁPISKY/DEJ/DEJ - 12 - Období vlády císaře Jusiniána I. - 27. 2. 2023.md",
+    "ZÁPISKY/CJ/CJ - 14 - Životopis - 3. 3. 2023.md",
+    "ZÁPISKY/CJ/CJ - 13 - Dopis a telefonát - 21. 2. 2023.md",
+    "ZÁPISKY/CJ/CJ - 12 - Dialog - 17.2 2023.md",
+    "ZÁPISKY/DEJ/DEJ - X - Spory v mořeplavbě - 22.02.2023.md",
+    "ZÁPISKY/DEJ/DEJ - X - Období vlády  císaře justinána I.md",
+    "ZÁPISKY/DEJ/DEJ - X - Neoabsolutismus Alexandra bacha - 13.3.2023.md",
+    "ZÁPISKY/DEJ/DEJ - X - Nacionalismus - 27.02.2023.md",
+    "ZÁPISKY/DEJ/DEJ - X - Karel veliký - 13.3.2023.md",
+    "ZÁPISKY/DEJ/Změny v Rakousku.md",
+    "ZÁPISKY/ZSV/ZSV - X - Náboženství Sekty - 22.02.2023.md",
+    "ZÁPISKY/ZSV/Untitled.md",
+    "ZÁPISKY/DEJ/DEJ - 4 - Doprava, Písmo, Matematika, Astronomie, Hebrejské kmeny, Kréta, Mikény, Železo, Perská Říše - 7. 11. 2022.md",
+    "ZÁPISKY/DEJ/DEJ - X Evropská Expance - 13.2.2023.md",
+    "ZÁPISKY/DEJ/DEJ - X - České Prostředí - 13.2.2023.md",
+    "ZÁPISKY/ZSV/ZSV - X - Rasy, Etika, Národy - 15.02.2023.md",
+    "ZÁPISKY/ZSV/ZSV - X - Rodinný Rozpočet - 11.01.2023.md",
     "ZÁPISKY/DEJ/DĚJ - 13 - Středověk - 30.01.2023.md",
-    "ZÁPISKY/DEJ/DEJ - 12 - Starověký Řím - 25.01.2023.md",
-    "ZÁPISKY/DEJ/DEJ - 11 - Starověký Řím - 11.01.2023.md",
-    "ZÁPISKY/DEJ/DEJ - 7 - Sparta x Athény - 19. 12. 2022.md",
-    "ZÁPISKY/EKO/EKO - 1 - Trh - 4. 11. 2022.md",
-    "ZÁPISKY/ZSV/ZSV - 1 - Vlasnictví - 2. 11. 2022.md",
-    "ZÁPISKY/ZSV/ZSV - 2 - Nakládání s majetkem -9. 11. 2022.md",
-    "ZÁPISKY/ZSV/ZSV - 4 - Vyvlastnění.md"
+    "ZÁPISKY/PRV/PRV - X - Elektronická pošta - 15.02.2023.md",
+    "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md"
   ]
 }
