@@ -1,5 +1,5 @@
 ---
-parnet: Anglictina
+parent: Anglictina
 nav_order: 3
 ---
 # EN - 3 - Regular and Irregular verbs - 7. 3. 2023
