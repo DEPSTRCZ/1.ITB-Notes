@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "ZÁPISKY/LIT/LIT - 16 - Renesance 5 - 26. 1. 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ZÁPISKY/LIT/LIT - 16 - Renesance 5 - 26. 1. 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ZÁPISKY/LIT/LIT - 16 - Renesance 5 - 26. 1. 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "ZÁPISKY/LIT/LIT - 16 - Renesance 5 - 26. 1. 2023.md"
               }
             }
           },
@@ -171,10 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "734f0c16b81fb20f",
+  "active": "f6d18829ad7065d4",
   "lastOpenFiles": [
-    "hierarchie-pameti.jpg.md",
+    "ZÁPISKY/EN/EN - 1 - Christmas - 19. 12. 2022.md",
+    "ZÁPISKY/DEJ/DEJ - 6 - Starověké Řecko - 21. 11. 2022.md",
+    "ZÁPISKY/DEJ/DEJEPIS.md",
+    "ZÁPISKY/EN/ANGLICTINA.md",
+    "ZÁPISKY/DEJ/DEJ - X Evropská Expance - 13.2.2023.md",
     "README.md",
+    "hierarchie-pameti.jpg.md",
     "ZÁPISKY/DEJ/DEJ - X - České Prostředí - 13.2.2023.md",
     "Pasted image 20221116082006.png",
     "OBRÁZKY/PHW",
@@ -196,11 +201,7 @@
     "ZÁPISKY/ZSV/ZSV - X - Náboženství Sekty - 22.02.2023.md",
     "ZÁPISKY/ZSV/Untitled.md",
     "ZÁPISKY/DEJ/DEJ - 4 - Doprava, Písmo, Matematika, Astronomie, Hebrejské kmeny, Kréta, Mikény, Železo, Perská Říše - 7. 11. 2022.md",
-    "ZÁPISKY/DEJ/DEJ - X Evropská Expance - 13.2.2023.md",
     "ZÁPISKY/ZSV/ZSV - X - Rasy, Etika, Národy - 15.02.2023.md",
-    "ZÁPISKY/ZSV/ZSV - X - Rodinný Rozpočet - 11.01.2023.md",
-    "ZÁPISKY/DEJ/DĚJ - 13 - Středověk - 30.01.2023.md",
-    "ZÁPISKY/PRV/PRV - X - Elektronická pošta - 15.02.2023.md",
-    "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md"
+    "ZÁPISKY/ZSV/ZSV - X - Rodinný Rozpočet - 11.01.2023.md"
   ]
 }
