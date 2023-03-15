@@ -1,4 +1,4 @@
 # Zápisky ze školy
 
-- V přípravě
+- Stabilní Verze - TEST
 https://depstrcz.github.io/1.ITB-Notes

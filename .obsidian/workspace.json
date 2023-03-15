@@ -8,95 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bf56da1f9a285e11",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
-            }
-          },
-          {
             "id": "734f0c16b81fb20f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZÁPISKY/DEJ/DEJ - X - České Prostředí - 13.2.2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd93c15972c65b78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/DEJ/DEJ - X Evropská Expance - 13.2.2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "accbe80c0fec369d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/PRV/PRV - X - Elektronická pošta - 15.02.2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7214a9686b02d85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/DEJ/DEJ - X - České Prostředí - 13.2.2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4dcf17f3ef3bcbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/ZSV/ZSV - X - Náboženství Sekty - 22.02.2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58e8cb73fe48c9fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/ZSV/ZSV - X - Náboženství Sekty - 22.02.2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3280e5abada0b697",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZÁPISKY/ZSV/ZSV - X - Náboženství Sekty - 22.02.2023.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20221116082006.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20221116082006.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20221116082006.png"
+                "file": "README.md"
               }
             }
           },
@@ -254,8 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f2dbc4d0357bcdd",
+  "active": "734f0c16b81fb20f",
   "lastOpenFiles": [
+    "hierarchie-pameti.jpg.md",
+    "README.md",
+    "ZÁPISKY/DEJ/DEJ - X - České Prostředí - 13.2.2023.md",
+    "Pasted image 20221116082006.png",
     "OBRÁZKY/PHW",
     "ZÁPISKY/ZSV/ZSV - X - Rasy, Etnika, Národy, Národnosti.md",
     "OBRÁZKY/DEJ",
@@ -276,7 +197,6 @@
     "ZÁPISKY/ZSV/Untitled.md",
     "ZÁPISKY/DEJ/DEJ - 4 - Doprava, Písmo, Matematika, Astronomie, Hebrejské kmeny, Kréta, Mikény, Železo, Perská Říše - 7. 11. 2022.md",
     "ZÁPISKY/DEJ/DEJ - X Evropská Expance - 13.2.2023.md",
-    "ZÁPISKY/DEJ/DEJ - X - České Prostředí - 13.2.2023.md",
     "ZÁPISKY/ZSV/ZSV - X - Rasy, Etika, Národy - 15.02.2023.md",
     "ZÁPISKY/ZSV/ZSV - X - Rodinný Rozpočet - 11.01.2023.md",
     "ZÁPISKY/DEJ/DĚJ - 13 - Středověk - 30.01.2023.md",
