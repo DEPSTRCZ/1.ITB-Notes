@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZÁPISKY/EN/ANGLICTINA.md",
+                "file": "ZÁPISKY/DEJ/DEJ - 13 - Francie 1871 - 6. 3. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75a336555cde9149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/LIT/LIT - 22 - Renesance v Čechách a na Moravě - 27. 3. 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,16 +188,6 @@
             }
           },
           {
-            "id": "51ccb5c6365527e4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
-          },
-          {
             "id": "c8b0541a87131b46",
             "type": "leaf",
             "state": {
@@ -203,14 +205,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZÁPISKY/EN/EN - 3 - Regular and Irregular verbs - 7. 3. 2023.md",
+                "file": "ZÁPISKY/CJ/CJ - 13 - Dopis a telefonát - 21. 2. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6c6b91a59332333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/CJ/CJ - 15 - Funkční styly - 7. 3. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65f78dc91c5774e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/LIT/LIT - 23 - Renesance v Čechách a na Moravě 2 - 30. 3. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18aad821ba24dd0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/LIT/LIT - 24 - Renesance v Čechách a na Moravě 3 - 3. 4. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3593ebf48689820b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/LIT/LIT - 23 - Renesance v Čechách a na Moravě 2 - 30. 3. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "494e72e9a5e0989a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/LIT/LIT - 25 - Renesance v Čechách a na Moravě 4 - 13. 4. 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9ab6e3d669a3464",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZÁPISKY/LIT/LIT - 14 - Renesance 3 - 19. 1. 2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -294,7 +368,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZÁPISKY/EN/EN - 3 - Regular and Irregular verbs - 7. 3. 2023.md",
+                "file": "ZÁPISKY/LIT/LIT - 14 - Renesance 3 - 19. 1. 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +385,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZÁPISKY/EN/EN - 3 - Regular and Irregular verbs - 7. 3. 2023.md",
+                "file": "ZÁPISKY/LIT/LIT - 14 - Renesance 3 - 19. 1. 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -334,7 +408,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZÁPISKY/EN/EN - 3 - Regular and Irregular verbs - 7. 3. 2023.md"
+                "file": "ZÁPISKY/LIT/LIT - 14 - Renesance 3 - 19. 1. 2023.md"
               }
             }
           },
@@ -364,33 +438,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "952b407b601ba294",
+  "active": "b9ab6e3d669a3464",
   "lastOpenFiles": [
-    "ZÁPISKY/EN/EN - 2 - Have Have got - 27. 1. 2023.md",
-    "ZÁPISKY/EN/EN - 3 - Regular and Irregular verbs - 7. 3. 2023.md",
-    "ZÁPISKY/EN/ANGLICTINA.md",
-    "ZÁPISKY/DEJ/DEJ - 12 - Období vlády císaře Jusiniána I. - 27. 2. 2023.md",
-    "ZÁPISKY/DEJ/DEJ - 13 - Francie 1871 - 6. 3. 2023.md",
-    "ZÁPISKY/CJ/Untitled.md",
-    "Untitled.md",
-    "ZÁPISKY/ZSV/ZAKLADYSPOLECENSKYCHVED.md",
-    "ZÁPISKY/PRX/PRAXE.md",
-    "ZÁPISKY/EN/EN - 1 - Christmas - 19. 12. 2022.md",
-    "ZÁPISKY/EKO/EKO - 1 - Trh - 4. 11. 2022.md",
-    "ZÁPISKY/EKO/EKONOMIKA.md",
-    "ZÁPISKY/LIT/LIT - 8 - Husictví - 5. 12. 2022.md",
-    "ZÁPISKY/PRV/PRV - 2 - Webová komunikace - 12. 1. 2023.md",
-    "ZÁPISKY/EN/EN - 1 21. 10. 2022.md",
-    "ZÁPISKY/EN/EN - EMAIL.md",
-    "ZÁPISKY/LIT/LIT - 21 - Renesance 10 - 23. 2. 2023.md",
-    "ZÁPISKY/LIT/LIT - 10 - Vavřinec z Březové, Václav Šašek z Bířkova - 12. 12. 2022.md",
-    "ZÁPISKY/LIT/LIT - 11 - Petr Chelčický - 15. 12. 2022.md",
-    "ZÁPISKY/LIT/LIT - 9 - Mistr Jan Hus- 8. 12. 2022.md",
-    "ZÁPISKY/LIT/LIT - 7 - Středověká literatura - Čechy a Morava - 24. 11. 2022.md",
     "ZÁPISKY/LIT/LIT - 6 - Středověk v Čechách a na Moravě - 1. 12. 2022.md",
-    "ZÁPISKY/CJ/CJ - 13 - Dopis a telefonát - 21. 2. 2023.md",
+    "ZÁPISKY/LIT/LIT - 9 - Mistr Jan Hus- 8. 12. 2022.md",
+    "ZÁPISKY/EN/EN - 4 - Eva Hart - Titanic - 14. 4. 2023.md",
+    "ZÁPISKY/EN/EN - 3 - Regular and Irregular verbs - 7. 3. 2023.md",
+    "ZÁPISKY/LIT/LIT - 25 - Renesance v Čechách a na Moravě 4 - 13. 4. 2023.md",
+    "ZÁPISKY/LIT/LIT - 24 - Renesance v Čechách a na Moravě 3 - 3. 4. 2023.md",
+    "ZÁPISKY/LIT/LIT - 23 - Renesance v Čechách a na Moravě 2 - 30. 3. 2023.md",
+    "ZÁPISKY/LIT/LIT - 22 - Renesance v Čechách a na Moravě - 27. 3. 2023.md",
+    "ZÁPISKY/LIT/LIT - 20 - Renesance 9 - 20. 2. 2023.md",
+    "ZÁPISKY/CJ/CJ - 17 - Charakteristika - 12. 4. 2023.md",
+    "ZÁPISKY/CJ/Untitled.md",
+    "ZÁPISKY/CJ/CJ - 16 - Referát - 15. 3. 2023.md",
+    "ZÁPISKY/DEJ/DEJ - 13 - Francie 1871 - 6. 3. 2023.md",
+    "ZÁPISKY/LIT/LIT - 8 - Husictví - 5. 12. 2022.md",
+    "ZÁPISKY/LIT/LIT - 21 - Renesance 10 - 23. 2. 2023.md",
+    "ZÁPISKY/OSY/OSY - 3 - Instalace arch linuxu - 7. 3. 2023.md",
+    "ZÁPISKY/CJ/CJ - 15 - Funkční styly - 7. 3. 2023.md",
+    "Pasted image 20230307205330.png",
+    "Pasted image 20230307205323.png",
+    "Pasted image 20230307205315.png",
+    "Pasted image 20230307205307.png",
+    "Pasted image 20230307205304.png",
     "ZÁPISKY/CJ/CJ - 14 - Životopis - 3. 3. 2023.md",
-    "ZÁPISKY/DEJ/DEJ - 11 - Starověký Řím - 11.01.2023.md",
-    "ZÁPISKY/PHW/PHW - 10 - SDD - Solid State Drive - 20. 2. 2023.md"
+    "ZÁPISKY/CJ/CJ - 13 - Dopis a telefonát - 21. 2. 2023.md",
+    "ZÁPISKY/CJ/CESKYJAZYK.md",
+    "ZÁPISKY/OSY/OPERACNISYSTEMY.md",
+    "ZÁPISKY/ICT/ICT - Disky-Managment - 9. 11. 2022.md",
+    "ZÁPISKY/ICT/ICT.md",
+    "ZÁPISKY/LIT/LITERATURA.md",
+    "ZÁPISKY/EN/ANGLICTINA.md",
+    "ZÁPISKY/EKO/EKONOMIKA.md"
   ]
 }
