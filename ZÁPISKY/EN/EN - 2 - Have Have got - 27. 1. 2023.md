@@ -1,5 +1,5 @@
 ---
-parnet: Anglictina
+parent: Anglictina
 nav_order: 2
 ---
 # EN - 2 - Have Have got - 27. 1. 2023

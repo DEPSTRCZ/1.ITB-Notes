@@ -1,5 +1,5 @@
 ---
-parnet: Anglictina
+parent: Anglictina
 nav_order: 1
 ---
 # EN - 1 - Christmas - 19. 12. 2022
