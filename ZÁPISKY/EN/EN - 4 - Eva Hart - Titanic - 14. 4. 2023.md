@@ -1,5 +1,5 @@
 ---
-parnet: Anglictina
+parent: Anglictina
 nav_order: 4
 ---
 # EN - 4 - Eva Hart - Titanic - 14. 4. 2023
