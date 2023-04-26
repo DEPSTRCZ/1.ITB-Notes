@@ -1,6 +1,6 @@
 ---
 parent: Cestina
-nav_order: 16
+nav_order: 17
 ---
 # CJ - 17 - Charakteristika - 12. 4. 2023
 - přívlastky
